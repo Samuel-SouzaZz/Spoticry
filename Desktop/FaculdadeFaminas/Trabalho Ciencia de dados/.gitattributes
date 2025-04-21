@@ -1,0 +1,4 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+dadosLimpos/dados_limpos.csv filter=lfs diff=lfs merge=lfs -text
+"dadosSujos/vendas_modificado (2).csv" filter=lfs diff=lfs merge=lfs -text
+dadosLimpos/regras_associacao.csv filter=lfs diff=lfs merge=lfs -text 
